@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**keller19/keller19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My website : https://welovedevs.com/app/fr/developer/gabriel-je-suis-developpeur-junior-javakotlin
 Here are some ideas to get you started:
