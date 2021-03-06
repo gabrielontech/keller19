@@ -11,19 +11,24 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 
   ° Kotlin
+  
   ° Android Studio
 - ❤️ I love ...:
 
    ° Java 
+   
    ° Software Development
 - 💬 Ask me about ...
 
   ° Books
+  
   ° My code
+  
   ° Sport 
 - 📫 How to reach me: ...
 
   ° [Contact me on Twitter](https://mobile.twitter.com/Gvbrielkeller)
+  
   ° [Contact me on my email Prontomail](gabrielkeller19@protonmail.com)
   
 - ⚡ Fun fact: 
