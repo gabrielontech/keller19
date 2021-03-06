@@ -2,7 +2,6 @@
 
 
 My website : https://welovedevs.com/app/fr/developer/gabriel-je-suis-developpeur-junior-javakotlin
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
