@@ -9,12 +9,12 @@ My website : https://welovedevs.com/app/fr/developer/gabriel-je-suis-developpeur
   ° [GsbApp](https://github.com/keller19/GsbApp)
 - 🌱 I’m currently learning ...
 
-  ° Kotlin
+  ° Dart
   
-  ° Android Studio
+  ° Flutter
 - ❤️ I love ...:
 
-   ° Java 
+   ° Flutter
    
    ° Software Development
 - 💬 Ask me about ...
