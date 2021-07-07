@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My website : https://welovedevs.com/app/fr/developer/gabriel-je-suis-developpeur-junior-javakotlin
+My website : https://keller19.github.io/gabrielkitoko/
 
 - 🔭 I’m currently working on ...
 
@@ -26,7 +26,7 @@ My website : https://welovedevs.com/app/fr/developer/gabriel-je-suis-developpeur
   ° Sport 
 - 📫 How to reach me: ...
 
-  ° [Contact me on Twitter](https://mobile.twitter.com/Gvbrielkeller)
+  ° [Contact me on Twitter](https://mobile.twitter.com/kellerM42)
   
   ° [Contact me on my email Prontomail](gabrielkeller19@protonmail.com)
   
