@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My website : https://keller19.github.io/gabrielkitoko/
+My website : https://gabrielkitoko.com/
 
 - 🔭 I’m currently working on ...
 
